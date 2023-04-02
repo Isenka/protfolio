@@ -5,4 +5,4 @@
 Увлекаюсь некромантией
 
 ### Моя детская фотография
-(\Downloads\1.jpg)
+![1](https://user-images.githubusercontent.com/129068718/229365114-d3b99d50-d088-4df5-9e78-53ee2c87cf5b.jpg)
